@@ -9,8 +9,7 @@
 - [C1: Disguising your Virtual Machine](#c1-disguising-your-virtual-machine)
 - [C2: Further Disguising](#c2-further-disguising)
 - [D: Further Scam-Baiting tools](#d-further-scam-baiting-tools)
-- [E: Some Scam-Baiting YouTubers](#e-some-scam-baiting-youtubers)
-- [F: Suggestions and resources](#f-suggestions-and-resources)
+- [E/F: Some Scam-Baiting YouTubers/Suggestions and resources](#e-some-scam-baiting-youtubers)
 
 ---
 ### A: What is scam-baiting?
