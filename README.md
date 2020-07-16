@@ -1,5 +1,17 @@
 # Scam-baiting with a Windows 10 Host using Oracle's VirtualBox.
 
+**Contents:**
+- [A: What is scam-baiting?](#a-what-is-scam-baiting)
+- [B: How do I set up a scam-baiting environment with VirtualBox?](#b-how-do-i-set-up-a-scam-baiting-environment-with-virtualbox)
+  - [Installing VirtualBox](#installing-virtualbox)
+  - [Creating a new Virtual Machine](#creating-a-new-virtual-machine)
+  - [Installing Windows 10](#installing-windows-10)
+- [C1: Disguising your Virtual Machine](#c1-disguising-your-virtual-machine)
+- [C2: Further Disguising](#c2-further-disguising)
+- [D: Further Scam-Baiting tools](#d-further-scam-baiting-tools)
+- [E: Some Scam-Baiting YouTubers](#e-some-scam-baiting-youtubers)
+- [F: Suggestions and resources](#f-suggestions-and-resources)
+
 ---
 ### A: What is scam-baiting?
 Scam-baiting is the art of wasting a scammer's time in order to prevent real people from being affected by the scammer. Scam-baiting may also extend to more serious actions such as deleting files, locking scammer's out of their computer, gathering information on scammers and more. Whilst these further activities are illegal, the chances of being raided by the police for messing with fraudulent scammers are pretty slim. However, it is still advised to take basic anonymity precautions.
@@ -15,7 +27,7 @@ After the file has downloaded, install the file like how you would normally inst
 ![Fresh VirtualBox Screen](https://user-images.githubusercontent.com/66549839/87617329-2eb0d880-c70f-11ea-84d7-2503422b3861.png)
 
 ---
-##### Creating a new Virtual Machine (+Adding an ISO correctly):
+##### Creating a new Virtual Machine:
 When creating a new Windows 10 Virtual Machine, some users may find it hard to set it up correctly, even after downloading their Windows 10 ISO file - the same thing happened to me. However, now that I have the knowledge, it's actually incredibly easy, it's just that most first-time users wouldn't think of doing it. So, here is how to set up your Windows 10 Virtual Machine!
 - Download the [Windows 10 ISO file](https://gofile.io/d/L3XiuC).
 
@@ -34,7 +46,7 @@ When creating a new Windows 10 Virtual Machine, some users may find it hard to s
 - Highlight the Virtual Machine you just created and click the green **Start** button. From there, the machine will power on and begin installing Windows 10.
 
 ---
-##### Installing Windows 10 Properly (without Activation key):
+##### Installing Windows 10:
 Before installing Windows 10 for you scam-baiting, there are some important considerations you should take note of...
 - When Windows 10 asks for an activation key, click the option to activate Windows 10 later (Which, of course, you wont).
 
@@ -61,7 +73,7 @@ One of the most important things to do with a Virtual Machine is to hide the fac
   - Finally, right click the, "Enum" folder again and click find. Enter the following hash: `4d36e96f-e325-11ce-bfc1-08002be10318` and modify the, "DeviceDesc" to, "Microsoft Pointing Device". Now click F3 Twice and modify the next, "DeviceDesc" to, "Microsoft USB Pointing Device".
 
 ---
-### C2: Disguising your Virtual Machine (continued):
+### C2: Further disguising:
 So, you've changed all the complicated settings, good job! (**WARNING: IF USING VIRTUALBOX GUEST ADDITIONS, CLOSE THE TRAY ICONS USING THE TASK MANAGER. FURTHERMORE, YOU SHOULD DISABLE THE TASK MANAGER AND BLAME IT ON A VIRUS. FURTHERMORE, EJECT THE GUEST EDITIONS CD FROM THE D: DRIVE.**)
 
 However, a fresh PC is going to look suspicious, so remember to use [Ninite](https://ninite.com) to install some applications in the Virtual Machine (Download the files to your Virtual Machine, not your host).
@@ -101,7 +113,7 @@ This can be done using the top menu of the Virtual Box window: `Machine -> Take 
 - [Joe Scambait](https://www.youtube.com/user/joeg1725/featured)
 
 ---
-### F: Suggestion guidance (+Resources).
+### F: Suggestions and resources.
 A suggestion can be requested by creating an issue on this repository. Please make the suggestion as descriptive as possible, rather than just three words; it'll make it more likely to be added. Furthermore, a suggestion for you, the reader. You should probably visit the [Scambaiting Reddit](https://www.reddit.com/r/scambait/) as it may contain helpful resources.
 
 ---
