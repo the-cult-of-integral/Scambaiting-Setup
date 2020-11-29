@@ -104,7 +104,6 @@ This can be done using the top menu of the Virtual Box window: `Machine -> Take 
 - [ScammerRevolts](https://www.youtube.com/channel/UC0uJKUXiU5T41Fzawy5H6mw)
 - [Atomic Shrimp](https://www.youtube.com/user/AtomicShrimp)
 - [Kitboga](https://www.youtube.com/channel/UCm22FAXZMw1BaWeFszZxUKw)
-- [UncleUdink](https://www.youtube.com/channel/UC7ERt7ie2wll5MSSrKKrlwQ) (Low upload rate).
 - [Trilogy Media](https://www.youtube.com/channel/UCca2961Ton2js_f9IDXK9Wg)
 - [ScamBait Central](https://www.youtube.com/user/mbayowambayo)
 - [Scammer Payback](https://www.youtube.com/channel/UCC9EjyMN_hx5NdctLBx5X7w)
