@@ -28,7 +28,7 @@ After the file has downloaded, install the file like how you would normally inst
 ---
 ##### Creating a new Virtual Machine:
 When creating a new Windows 10 Virtual Machine, some users may find it hard to set it up correctly, even after downloading their Windows 10 ISO file - the same thing happened to me. However, now that I have the knowledge, it's actually incredibly easy, it's just that most first-time users wouldn't think of doing it. So, here is how to set up your Windows 10 Virtual Machine!
-- Download the [Windows 10 ISO file](https://gofile.io/d/L3XiuC).
+- Download the [Windows 10 ISO file](https://www.microsoft.com/en-us/software-download/windows10ISO).
 
 - Head to the main screen of the VirtualBox application and click the blue **New** button.
 - Name the Virtual Machine whatever you want and select its types as Microsdt Windows and its version as Windows 10 (64-bit).
