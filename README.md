@@ -90,7 +90,7 @@ However, a fresh PC is going to look suspicious, so remember to use [Ninite](htt
 
 Furthermore, you will also want to use a custom Desktop Background. **There is an easy way to do this without an activation key**. Simply download a picture from the internet onto your desktop. Then, **move** it to the Windows 10 file in the following path: `C:\Windows\Web\Wallpaper\Windows 10`. After this, simply right click the image and click, "Set as desktop background." Note that you can not adjust its crop, so choose an image that roughly fits the Virtual Machine's resolution.
 
-#### Before saving a screenshot of your Virtual Machine, check you have done the following:
+#### Before saving a snapshot of your Virtual Machine, check you have done the following:
 1. You have successfully editied the Virtual Machine using vmSysInfoMod tool.
 2. You have successfully removed the Guest Additions folder from Regedit if using Guest Additions.
 3. You have successfully edited each of the four hash's set values asked of you to edit.
@@ -99,7 +99,7 @@ Furthermore, you will also want to use a custom Desktop Background. **There is a
 6. You have successfully removed the guest addition tray icons using the task manager if using Guest Additions.
 7. You have successfully disabled the task manager after this if using Guest Additions.
 
-### If all of these requirements are met, save a screenshot of the machine.
+### If all of these requirements are met, save a snapshot of the machine.
 This can be done using the top menu of the Virtual Box window: `Machine -> Take Snapshot`. Then, every time you finish a scam bait, when powering off the machine check the, "Restore to <snapshot name>" check box to revert back to this finished set-up state.
 
 ---
