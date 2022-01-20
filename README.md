@@ -1,7 +1,7 @@
 # Notice and contributers.
 This repository has been transfered to a more professional work account in 2022 for applications, interviews, etc. However, the goal of this repository remains the same.
 
-(Unique) contributers to this repository include:
+(**Unique**) contributers to this repository include:
 - @citricacid2 - fixed download link for Windows 10 ISO file; now downloaded from the official Microsoft domain.
 - @ArchGryphon9362 - updated "star milestone" (now removed).
 - @jhstatewide - fixed typo; replaced "screenshot" with "snapshot".
